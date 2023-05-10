@@ -5,9 +5,18 @@ This data analysis project aims to explore the relationship between income equal
 The primary objective of this analysis is to investigate whether income equality is positively correlated with life expectancy. The project also aims to identify any significant regional differences in this relationship. Additionally, the impact of gender on this relationship will be examined by analyzing the gender gap in life expectancy and annual progress.
 
 ### Personal Aims
+I wanted a project that was based on a growing problem in seevral countries and one of the topics I was most curious about was why households with higher incoming 
+had a higher life expectancy compared to households with a lower life expectancy. There are several factors that affact life expectancy such as access to healthcare, lifestyle, environmental factors, geographic location and behavioural factors but my project will mainly focus on the socioeconomic factor, income equality. 
+
+<video id="my-video" class="video-js" controls preload="auto" width="640" height="264" data-setup="{}">
+  <source src="https://www.youtube.com/watch?v=_Bxxl6QiDBE" type='video/youtube'>
+</video>
+
+What I hope to gain from this project:
 - To gain knowledge on how to scrape websites using the python library, BeautifulSoup
 - To gain cleaning and prepocessing data 
 - Gain practice on data visualization
+- Increase my knowledge on using statistics in data analysis
 
 ## Dataset
 The dataset used in this analysis includes information on the 10%, 20%, and Gini % income percentiles, life expectancy, gender gap, and annual progress in 2019 for various countries in different subregions and regions. The dataset was sourced from the wikipedia pages, [List of countries by income equality](https://en.wikipedia.org/wiki/List_of_countries_by_income_equality) and [List of countries by life expectancy](https://en.wikipedia.org/wiki/List_of_countries_by_life_expectancy#United_Nations_(2021)) after scraping World Bank Group and United Nations Development Programme data using the python library, BeautifulSoup. 
