@@ -4,7 +4,7 @@ This data analysis project aims to explore the relationship between income equal
 ## Objectives
 The primary objective of this analysis is to investigate whether income equality is positively correlated with life expectancy. The project also aims to identify any significant regional differences in this relationship. Additionally, the impact of gender on this relationship will be examined by analyzing the gender gap in life expectancy and annual progress.
 
-## Personal Aim
+## Personal Aims
 - To gain knowledge on how to scrape websites using the python library, BeautifulSoup
 - To gain cleaning and prepocessing data 
 - Gain practice on data visualization
