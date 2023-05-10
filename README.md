@@ -8,13 +8,7 @@ The primary objective of this analysis is to investigate whether income equality
 I wanted a project that was based on a growing problem in seevral countries and one of the topics I was most curious about was why households with higher incoming 
 had a higher life expectancy compared to households with a lower life expectancy. There are several factors that affact life expectancy such as access to healthcare, lifestyle, environmental factors, geographic location and behavioural factors but my project will mainly focus on the socioeconomic factor, income equality. 
 
-<link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
-<script src="https://unpkg.com/video.js/dist/video.js"></script>
-
-<video id="my-video" class="video-js" controls preload="auto" width="640" height="264" data-setup="{}">
-  <source src="https://www.youtube.com/watch?v=_Bxxl6QiDBE" type='video/youtube'>
-</video>
-
+[Association Between Income and Life Expectancy in the United States](https://www.youtube.com/watch?v=_Bxxl6QiDBE)
 
 What I hope to gain from this project:
 - To gain knowledge on how to scrape websites using the python library, BeautifulSoup
